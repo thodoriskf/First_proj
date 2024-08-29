@@ -1,0 +1,4 @@
+name: First_proj
+channels:
+  - defaults
+prefix: /opt/conda/envs/First_proj
