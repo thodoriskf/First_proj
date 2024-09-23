@@ -1,2 +1,20 @@
-# Ignore virtual environment
+
 First_proj_venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+logs/
+*.sqlite3
+.env
+.env.*
+*.env
+*.ini
+*.cfg
+*.toml
+.vscode/
+# PyCharm project files
+.idea/
+# Windows system files
+Thumbs.db
+
